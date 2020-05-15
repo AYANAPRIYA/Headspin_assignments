@@ -4,21 +4,21 @@
 
 * After installation,  check the version of python installed.
            
-'''python
+
            python --version
-'''
-'''python
+
            Python 3.7.3
-'''
+
 
 * Run the files using command line, ie, *Teriminal* in MacOs and Linux and *Command Prompt* in Windows.
 
 * Navigate into the the directory, in which the files are located using *cd* command. eg:
-'cd Desktop'
+         
+         cd Desktop
 
 * Run the program using commands below. eg.
 
-'Question1.py'
+           Question1.py
 
 ### Question1
 
