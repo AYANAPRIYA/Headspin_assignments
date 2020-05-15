@@ -4,8 +4,10 @@
 
 * After installation,  check the version of python installed.
            
-'''python --version'''
-'''Python 3.7.3'''
+'''python
+           python --version'''
+'''python
+           Python 3.7.3'''
 
 * Run the files using command line, ie, *Teriminal* in MacOs and Linux and *Command Prompt* in Windows.
 
